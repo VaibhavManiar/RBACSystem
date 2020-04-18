@@ -1,0 +1,6 @@
+rootProject.name = 'RBACSystem'
+include 'core'
+include 'resource'
+include 'client'
+include 'api'
+
